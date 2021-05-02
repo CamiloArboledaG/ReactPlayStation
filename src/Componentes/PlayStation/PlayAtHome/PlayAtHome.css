@@ -1,0 +1,14 @@
+.tamañoPlay{
+    height: 100%;
+    width: 21.5rem;
+    transform: translate(0%, -15%);
+    border: 3px solid rgb(255, 255, 255);
+    cursor: pointer;
+}
+.PlayAtHome{
+    display: flex;
+    justify-content:center;
+}
+.tamañoPlay:hover{
+    border: 3px solid rgb(105, 107, 197);
+}

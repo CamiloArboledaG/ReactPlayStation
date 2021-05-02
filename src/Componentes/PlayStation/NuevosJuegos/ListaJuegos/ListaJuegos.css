@@ -1,0 +1,27 @@
+
+.Item{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.Lista{
+    display: flex;
+    padding-left: 8rem;
+    padding-right: 10rem;
+    
+    transform: translate(0%, -100%);
+}
+.botónSiguiente{
+    color:white;
+    background-color:rgb(55, 55, 248);
+    padding: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.65rem;
+    border-radius: 100%;
+    margin-top: 7rem;
+    margin-bottom: 13rem;
+    transform: translate(-110%, -0%);
+    font-weight: 400;
+    font-size: larger;
+    cursor: pointer;
+}

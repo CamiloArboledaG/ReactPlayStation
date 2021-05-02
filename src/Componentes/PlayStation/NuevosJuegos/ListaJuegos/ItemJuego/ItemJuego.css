@@ -1,0 +1,30 @@
+.Imagen{
+    width: 10rem;
+    min-width: 9rem;
+    height: 100%;
+    margin-top: 1rem;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.Imagen:hover{
+    border: 3px solid rgb(105, 107, 197);
+}
+.h4class{
+    font-weight: 350;
+    text-align: left;
+    transform: translate(0%, -50%);
+}
+.h3class{
+    font-weight: 350;
+    text-align: left;
+    transform: translate(0%, -140%);
+    margin-bottom: 0;
+}
+.aClass{
+    cursor: pointer;
+    margin:1.5rem;
+    
+}
+.textoDiv{
+    margin-bottom: 0;
+}

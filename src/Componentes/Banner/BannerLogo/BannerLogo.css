@@ -1,0 +1,14 @@
+.BannerLogo{
+    background: black;
+    display: flex;
+    justify-content: flex-end;
+}
+.Logo{
+    height:1.2rem;
+    max-width: 100%;
+    margin: 0.4rem;  
+    cursor: pointer; 
+}
+.botonLogo{
+    background: black;
+}

@@ -1,0 +1,40 @@
+.BotonLogo{
+    display: flex;
+    justify-content:flex-start;
+    height:2.7rem;
+    max-width: 100%;
+    margin: 0.8rem;
+    padding-left: 2rem; 
+    cursor: pointer;  
+}
+.MenuPegajoso{
+    display: flex;
+    align-items: center;
+    background-color:white;
+}
+.Sección{
+    margin-bottom: 0.2rem;
+    padding: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.SeccionSelect{
+    color: rgb(49, 49, 255);
+    border-bottom: 5px solid rgb(49, 49, 255);
+}
+.Div2{
+    display: flex;
+}
+
+.Sección:hover{
+    color: rgb(53, 53, 253);
+}
+.Sección2{
+    margin-right: 100rem;
+}
+
+.menu-fixed{
+    position: fixed;
+    z-index: 1000;
+    top:0;
+}

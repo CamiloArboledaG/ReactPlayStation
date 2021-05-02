@@ -1,0 +1,61 @@
+.LogoPlay{
+    max-height: 100%;
+    width: 2rem;
+    margin: 0.8rem; 
+    align-items: center; 
+    cursor: pointer; 
+}
+.BotonD{
+    color: gray;
+    background-color: white;
+    margin: 0.6rem;
+    font-weight: 600;
+    font-family: "SST W20 Medium", helvetica, arial, sans-serif;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
+.MenuPrincipal{
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.Parte1{
+    display: flex;
+    align-items: center;
+}
+.Parte2{
+    display: flex;
+    align-items: center;
+}
+.BotonIniciar{
+    background-color: rgb(56, 56, 56);
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 500;
+    border-radius: 40px 40px 40px 40px;
+    font-size: 1.1rem;
+    border: 3px solid rgb(255, 255, 255);
+    cursor: pointer;
+}
+.buscar{
+    max-height: 100%;
+    width: 1rem;
+    margin: 0.8rem; 
+    align-items: center;
+    padding-left: 1rem; 
+    cursor: pointer; 
+}
+
+.BotonIniciar:hover{
+    border: 3px solid rgb(134, 134, 134);
+}
+
+.BotonD:hover{
+    color: rgb(53, 53, 253);
+}

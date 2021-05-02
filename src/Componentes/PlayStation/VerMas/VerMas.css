@@ -1,0 +1,8 @@
+.VerMas{
+    display: flex;
+    justify-content:center;
+}
+.h1Vermas{
+    font-weight: 300;
+    font-size: 3rem;
+}

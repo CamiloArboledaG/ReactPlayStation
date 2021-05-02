@@ -1,0 +1,19 @@
+
+.BannerNuevosJuegos{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    box-sizing: content-box;
+    
+}
+.VerTodos{
+    margin-right: 10rem;
+    font-weight: 500;
+    color:rgb(55, 55, 248);
+    box-sizing: content-box;
+    cursor: pointer;
+}
+.Juegos{
+    font-size: 3rem;
+    box-sizing: content-box;
+}

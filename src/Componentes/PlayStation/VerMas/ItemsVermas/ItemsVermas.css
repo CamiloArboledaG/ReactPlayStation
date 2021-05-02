@@ -1,0 +1,24 @@
+.tamaño2{
+    height: 100%;
+    width: 21.5rem;
+    border: 3px solid rgb(255, 255, 255);
+    cursor: pointer;
+    margin-top: 5rem;
+    margin-bottom:5rem;
+}
+.ItemsVermas{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+
+    
+}
+.tamaño:hover{
+    border: 3px solid rgb(105, 107, 197);
+}
+.ImagenVermas5{
+    margin-left: 12rem;
+}
+.ImagenVermas7{
+    margin-right: 12rem;
+}
