@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This project uses React Js and relies on creating components to simulate the PlayStation app shown below.
-Una SPA, donde se hace uso de react js y adicional se usan herramientas como lo son JavaScript, esto es acompañado de conocimientos con Html, css. 
+A SPA, where react js and additional tools such as JavaScript are used, this is accompanied by knowledge with Html, css.
 
 ```
 https://store.playstation.com/es-co/latest
